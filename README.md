@@ -1,0 +1,1 @@
+This is the repo for a sound design app I created, featured at [Chrome Experiments](https://www.chromeexperiments.com/experiment/sound-design). However, due to web audio API changes, the app is currently disabled.
